@@ -35,6 +35,7 @@
     <preference name="SplashMaintainAspectRatio" value="false" />
     <preference name="Orientation" value="portrait" />
     <engine name="android" spec="^6.2.3" />
+    <plugin name="cordova-plugin-autostart" spec="^2.0.1" />
     <plugin name="cordova-plugin-geolocation" spec="^2.4.3" />
     <plugin name="cordova-plugin-splashscreen" spec="^4.0.3" />
     <plugin name="cordova-plugin-statusbar" spec="^2.2.3" />
